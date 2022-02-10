@@ -1,4 +1,4 @@
-### Olá
+### Olá, tenho 19 anos e sou estudante de tecnologia.
 
 - 🔭 Estagiando na área de TI, aprendendo sobre redes e hardware.
 - 🌱 HTML5, CSS3 e JavaScript.
