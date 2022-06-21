@@ -1,12 +1,12 @@
 ### Olá, tenho 19 anos e sou estudante de tecnologia.
 
 - 🔭 Estagiando na área de TI, aprendendo sobre redes e hardware.
-- 🌱 HTML5, CSS3 e JavaScript.
-
+- 🌱 HTML5, CSS3 e JavaScript.<br>
+<br>
 <div>
   <a href="https://github.com/andersonr-o">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonr-o&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonr-o&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonr-o&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonr-o&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
