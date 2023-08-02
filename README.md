@@ -1,7 +1,7 @@
 ### Olá, tenho 20 anos e sou estudante de tecnologia.
 
-- 🔭 Estagiei na área de TI na parte de redes e hardware.
-- 🌱 HTML5, CSS3 e JavaScript.<br>
+- 🔭 Estagiei na área de TI na parte de redes e hardware, já fui analiste de suporte e atualmente trabalho como desenvolvedor back-end.
+- 🌱 Python, Banco de Dados SQL, HTML5, CSS3 e JavaScript.<br>
 <br>
 <div>
   <a href="https://github.com/andersonr-o">
